@@ -3,3 +3,4 @@ Amostra
 length(Amostra[Amostra==1])
 set.seed(525)
 sample(c(100),1)
+A Função Sample
